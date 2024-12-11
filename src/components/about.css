@@ -1,0 +1,20 @@
+.about-container {
+    background-color: #f8f9fa; /* Bootstrap light background */
+}
+
+.card {
+    border-radius: 0.75rem; /* Rounded corners for cards */
+}
+
+.card-body {
+    padding: 2rem; /* Spacious padding for better readability */
+}
+
+.btn-success {
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Smooth hover effects */
+}
+
+.btn-success:hover {
+    background-color: #218838; /* Slightly darker green */
+    transform: scale(1.05); /* Zoom effect on hover */
+}
