@@ -1,6 +1,6 @@
 /* General page settings */
 .login-page {
-    background-image: url("C:\JFSD\Learnathon Trails\riyal\src\assets\login.png");
+    background-image: url("../assets/login.png");
     position: relative;
     height: 100vh;
     display: flex;
